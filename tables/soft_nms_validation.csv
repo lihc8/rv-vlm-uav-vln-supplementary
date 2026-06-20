@@ -1,0 +1,4 @@
+post_processing,AP50_95,AP50,AP75,AR_100
+Gaussian Soft-NMS sigma=2.0,0.5524,0.7541,0.6310,0.7021
+Gaussian Soft-NMS sigma=20.0,0.5474,0.7351,0.6326,0.7040
+Locked first50 reference,0.5523,0.7558,0.6220,0.7024

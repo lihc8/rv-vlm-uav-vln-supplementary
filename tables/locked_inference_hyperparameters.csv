@@ -1,0 +1,10 @@
+hyperparameter,value
+Max UPN proposals per image,128
+Score fusion exponent alpha,0.4
+Inference refine lambda,0.75
+Soft-NMS type,Gaussian
+Soft-NMS IoU threshold,0.1
+Soft-NMS sigma,2.0
+Max detections per image,100
+Min box size,2 pixels
+Inria hyperparameter tuning,No
