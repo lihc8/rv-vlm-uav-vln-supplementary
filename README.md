@@ -2,7 +2,7 @@
 
 This repository provides the supplementary appendix for the paper:
 
-**A Region-Verified Vision-Language Model for Accurate Building Localization in Unmanned Aerial Vehicle Navigation**
+**UAV-PLA: A Proposal-Conditioned Landmark-Localization Architecture for UAV Vision-Language Navigation in Urban Scenarios**
 
 ## Contents
 
