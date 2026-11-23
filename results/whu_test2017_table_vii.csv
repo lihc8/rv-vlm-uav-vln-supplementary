@@ -1,0 +1,5 @@
+﻿method,ap50_95_1729_images_percent,ap50_95_2416_images_percent,gain_vs_8b_percentage_points
+Qwen3-VL-8B,43.98,43.57,
+E2-A Small MLP,47.13,46.77,3.20
+E2-B Projector MLP,45.73,45.44,1.87
+E2-D Large MLP,47.68,47.43,3.86

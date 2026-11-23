@@ -1,0 +1,5 @@
+﻿method,detections_score_ge_0_50,images_with_such_detections,zero_annotation_image_count
+Qwen3-VL-8B,57,38,687
+E2-A,116,80,687
+E2-B,187,116,687
+E2-D,39,30,687
